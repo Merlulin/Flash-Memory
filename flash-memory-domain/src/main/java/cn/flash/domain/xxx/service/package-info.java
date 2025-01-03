@@ -1,0 +1,1 @@
+package cn.flash.domain.xxx.service;

@@ -1,0 +1,1 @@
+docker stop flash-memory
